@@ -1,4 +1,3 @@
-create schema yandex_market;
 create table yandex_market.CUSTOMERS
 (
     id           SERIAL PRIMARY KEY,
